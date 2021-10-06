@@ -12,5 +12,5 @@ Jeffrey Smith
 
 ### Table of Contents for Reading-Notes
 - [Mindset](https://jeffrey-s-smith.github.io/reading-notes/)
-- [Markdown](git@github.com:Jeffrey-S-Smith/reading-notes/markdown.md.git)
+- [Markdown](https://jeffrey-s-smith.github.io/reading-notes/markdown.html)
 - [CodersComputer](git@github.com:Jeffrey-S-Smith/reading-notes/coderscomputer.md.git)
