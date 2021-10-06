@@ -11,6 +11,6 @@ These are some of my reading notes. while studying at Codefellows.
 Jeffrey Smith
 
 ### Table of Contents for Reading-Notes
-- [Mindset](README.md)
-- [Markdown](markdown.md)
-- [CodersComputer](coderscomputer.md)
+- [Mindset](git@github.com:Jeffrey-S-Smith/reading-notes.git)
+- [Markdown](git@github.com:Jeffrey-S-Smith/reading-notes/markdown.md.git)
+- [CodersComputer](git@github.com:Jeffrey-S-Smith/reading-notes/coderscomputer.md.git)
