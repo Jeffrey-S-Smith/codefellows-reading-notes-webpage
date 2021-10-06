@@ -11,6 +11,6 @@ These are some of my reading notes. while studying at Codefellows.
 Jeffrey Smith
 
 ### Table of Contents for Reading-Notes
-- [Ch 1](README.md)
-- [Ch 2](markdown.md)
-- [Ch 3](coderscomputer.md)
+- [Mindset](README.md)
+- [Markdown](markdown.md)
+- [CodersComputer](coderscomputer.md)
