@@ -11,7 +11,7 @@ These are some of my reading notes while studying at Codefellows.
 
 ## Table of Cotents for Code 102 Reading Notes
 
-- [Mindset](reading-notes/readme.md)
+- [Mindset](https://jeffrey-s-smith.github.io/reading-notes/)
 - [Markdown](reading-notes/markdown.md.)
 - [Coders Computer](reading-notes/coderscomputer.md)
 - [Structure with HTML](reading-notes/structurewithhtml.md)
