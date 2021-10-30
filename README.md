@@ -6,8 +6,7 @@ Jeffrey Smith
 
 ### Introduction
 
-Hello I am Jeffrey Smith. I am a IT SPECIALIST|VETERAN.
-These are some of my reading notes while studying at Codefellows.
+Hello I am Jeffrey Smith. These are some of my reading notes while studying at Codefellows.
 
 ## Table of Cotents for Code 102 Reading Notes
 
