@@ -1,4 +1,4 @@
-# CodeFellows Reading-Notes for Codefellows
+# CodeFellows Reading-Notes
 
 ## Author
 
@@ -11,7 +11,7 @@ These are some of my reading notes while studying at Codefellows.
 
 ## Table of Cotents for Code 102 Reading Notes
 
-- [Markdown](reading-notes/markdown.md.)
+- [Markdown](https://jeffrey-s-smith.github.io/reading-notes/markdown.html)
 - [Coders Computer](reading-notes/coderscomputer.md)
 - [Structure with HTML](reading-notes/structurewithhtml.md)
 - [Design with CSS](reading-notes/designwithcss.md)
