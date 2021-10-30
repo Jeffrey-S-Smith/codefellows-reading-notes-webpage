@@ -10,14 +10,14 @@ Hello I am Jeffrey Smith. These are some of my reading notes while studying at C
 
 ## Table of Cotents for Code 102 Reading Notes
 
-- [Markdown](https://jeffrey-s-smith.github.io/reading-notes/markdown.html)
-- [Coders Computer](https://jeffrey-s-smith.github.io/reading-notes/coderscomputer.html)
-- [Structure with HTML](https://jeffrey-s-smith.github.io/reading-notes/structurewithhtml.html)
-- [Design with CSS](https://jeffrey-s-smith.github.io/reading-notes/designwithcss.html)
-- [Remote Repositories](https://jeffrey-s-smith.github.io/reading-notes/remote-repositories.html)
-- [Dynamic Javascript](https://jeffrey-s-smith.github.io/reading-notes/dynamicjavascript.html)
-- [Programming with Javascript](https://jeffrey-s-smith.github.io/reading-notes/programmingwithjavascript.html)
-- [Operators and Loops](https://jeffrey-s-smith.github.io/reading-notes/operatorsandloops.html)
+- [Markdown](https://jeffrey-s-smith.github.io/codefellows-code-102-reading-notes/markdown.html)
+- [Coders Computer](https://jeffrey-s-smith.github.io/codefellows-code-102-reading-notes/coderscomputer.html)
+- [Structure with HTML](https://jeffrey-s-smith.github.io/codefellows-code-102-reading-notes/structurewithhtml.html)
+- [Design with CSS](https://jeffrey-s-smith.github.io/codefellows-code-102-reading-notes/designwithcss.html)
+- [Remote Repositories](https://jeffrey-s-smith.github.io/codefellows-code-102-reading-notes/remote-repositories.html)
+- [Dynamic Javascript](https://jeffrey-s-smith.github.io/codefellows-code-102-reading-notes/dynamicjavascript.html)
+- [Programming with Javascript](https://jeffrey-s-smith.github.io/codefellows-code-102-reading-notes/programmingwithjavascript.html)
+- [Operators and Loops](https://jeffrey-s-smith.github.io/codefellows-code-102-reading-notes/operatorsandloops.html)
 
 ## Table of Cotents for Code 201 Reading Notes
 
