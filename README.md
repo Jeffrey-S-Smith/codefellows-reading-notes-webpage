@@ -21,7 +21,7 @@ Hello I am Jeffrey Smith. These are some of my reading notes while studying at C
 
 ## Table of Cotents for Code 201 Reading Notes
 
-- [Reading Class 1](#fragment)
+- [Reading Overview Getting Started](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-01.md)
 - [Reading Class 2](#fragment)
 - [Reading Class 3](#fragment)
 - [Reading Class 4](#fragment)
