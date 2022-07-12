@@ -22,7 +22,7 @@ Hello I am Jeffrey Smith. These are some of my reading notes while studying at C
 ## Table of Cotents for Code 201 Reading Notes
 
 - [Reading Overview Getting Started](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-01.md)
-- [Reading Class 2](#fragment)
+- [Basics of HTML, CSS & JS](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-02.md)
 - [Reading Class 3](#fragment)
 - [Reading Class 4](#fragment)
 - [Reading Class 5](#fragment)
