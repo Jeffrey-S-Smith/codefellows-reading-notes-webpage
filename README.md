@@ -23,7 +23,7 @@ Hello I am Jeffrey Smith. These are some of my reading notes while studying at C
 
 - [Reading Overview Getting Started](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-01.md)
 - [Basics of HTML, CSS & JS](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-02.md)
-- [Reading Class 3](#fragment)
+- [HTML Lists, Control Flow with JS, and the CSS Box Model](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-03.md)
 - [Reading Class 4](#fragment)
 - [Reading Class 5](#fragment)
 - [Reading Class 6](#fragment)
