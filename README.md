@@ -1,4 +1,4 @@
-# CodeFellows Reading-Notes
+# Code Fellows Reading-Notes
 
 ## Author
 
@@ -6,7 +6,7 @@ Jeffrey Smith
 
 ### Introduction
 
-Hello I am Jeffrey Smith. These are some of my reading notes while studying at Codefellows.
+Hello I am Jeffrey Smith. These are some of my reading notes while studying at Code Fellows.
 
 ## Table of Contents for Code 102 Reading Notes
 
@@ -39,18 +39,18 @@ Hello I am Jeffrey Smith. These are some of my reading notes while studying at C
 
 ## Table of Contents for Code 301 Reading Notes
 
-- []()
-- [](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-02.md)
-- [](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-03.md)
-- [](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-04.md)
-- [](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-05.md)
-- [](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-06.md)
-- [](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-07.md)
-- [](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-08.md)
-- [](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-09.md)
-- [](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-10.md)
-- [](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-11.md)
-- [](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-12.md)
-- [](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-13.md)
-- [](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-14a.md)
-- [](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-14b.md)
+- [React Component-Based Architecture](https://github.com/Jeffrey-S-Smith/reading-notes-301/blob/main/class-01.md)
+- [React](https://github.com/Jeffrey-S-Smith/reading-notes-301/blob/main/class-02.md)
+- [React](https://github.com/Jeffrey-S-Smith/reading-notes-301/blob/main/class-03.md)
+- [React](https://github.com/Jeffrey-S-Smith/reading-notes-301/blob/main/class-04.md)
+- [React](https://github.com/Jeffrey-S-Smith/reading-notes-301/blob/main/class-05.md)
+- [React](https://github.com/Jeffrey-S-Smith/reading-notes-301/blob/main/class-06.md)
+- [React](https://github.com/Jeffrey-S-Smith/reading-notes-301/blob/main/class-07.md)
+- [React](https://github.com/Jeffrey-S-Smith/reading-notes-301/blob/main/class-08.md)
+- [React](https://github.com/Jeffrey-S-Smith/reading-notes-301/blob/main/class-09.md)
+- [React](https://github.com/Jeffrey-S-Smith/reading-notes-301/blob/main/class-10.md)
+- [React](https://github.com/Jeffrey-S-Smith/reading-notes-301/blob/main/class-11.md)
+- [React](https://github.com/Jeffrey-S-Smith/reading-notes-301/blob/main/class-12.md)
+- [React](https://github.com/Jeffrey-S-Smith/reading-notes-301/blob/main/class-13.md)
+- [React](https://github.com/Jeffrey-S-Smith/reading-notes-301/blob/main/class-14.md)
+- [React](https://github.com/Jeffrey-S-Smith/reading-notes-301/blob/main/class-15.md)
