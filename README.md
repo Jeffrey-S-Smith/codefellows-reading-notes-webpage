@@ -8,7 +8,7 @@ Jeffrey Smith
 
 Hello I am Jeffrey Smith. These are some of my reading notes while studying at Codefellows.
 
-## Table of Cotents for Code 102 Reading Notes
+## Table of Contents for Code 102 Reading Notes
 
 - [Markdown](https://jeffrey-s-smith.github.io/codefellows-code-102-reading-notes/markdown.html)
 - [Coders Computer](https://jeffrey-s-smith.github.io/codefellows-code-102-reading-notes/coderscomputer.html)
@@ -19,7 +19,7 @@ Hello I am Jeffrey Smith. These are some of my reading notes while studying at C
 - [Programming with Javascript](https://jeffrey-s-smith.github.io/codefellows-code-102-reading-notes/programmingwithjavascript.html)
 - [Operators and Loops](https://jeffrey-s-smith.github.io/codefellows-code-102-reading-notes/operatorsandloops.html)
 
-## Table of Cotents for Code 201 Reading Notes
+## Table of Contents for Code 201 Reading Notes
 
 - [Reading Overview Getting Started](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-01.md)
 - [Basics of HTML, CSS & JS](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-02.md)
@@ -36,3 +36,21 @@ Hello I am Jeffrey Smith. These are some of my reading notes while studying at C
 - [Local Storage and How To Use It On Websites](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-13.md)
 - [CSS Transforms](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-14a.md)
 - [What Google Learned From Its Quest to Build the Perfect Team](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-14b.md)
+
+## Table of Contents for Code 301 Reading Notes
+
+- []()
+- [](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-02.md)
+- [](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-03.md)
+- [](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-04.md)
+- [](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-05.md)
+- [](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-06.md)
+- [](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-07.md)
+- [](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-08.md)
+- [](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-09.md)
+- [](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-10.md)
+- [](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-11.md)
+- [](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-12.md)
+- [](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-13.md)
+- [](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-14a.md)
+- [](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-14b.md)
