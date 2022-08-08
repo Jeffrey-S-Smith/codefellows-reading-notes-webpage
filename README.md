@@ -40,7 +40,7 @@ Hello I am Jeffrey Smith. These are some of my reading notes while studying at C
 ## Table of Contents for Code 301 Reading Notes
 
 - [React Component-Based Architecture](https://github.com/Jeffrey-S-Smith/reading-notes-301/blob/main/class-01.md)
-- [React](https://github.com/Jeffrey-S-Smith/reading-notes-301/blob/main/class-02.md)g
+- [Readings and Resources: ES6 Classes](https://github.com/Jeffrey-S-Smith/reading-notes-301/blob/main/class-02.md)
 - [React](https://github.com/Jeffrey-S-Smith/reading-notes-301/blob/main/class-03.md)
 - [React](https://github.com/Jeffrey-S-Smith/reading-notes-301/blob/main/class-04.md)
 - [React](https://github.com/Jeffrey-S-Smith/reading-notes-301/blob/main/class-05.md)
