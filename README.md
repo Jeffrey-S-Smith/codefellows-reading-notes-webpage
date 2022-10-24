@@ -87,7 +87,7 @@ Hello I am Jeffrey Smith. These are some of my reading notes while studying at C
 - [useState() Hook](https://github.com/Jeffrey-S-Smith/reading-notes-401/blob/main/read-class27.md)
 - [Component Lifecycle / useEffect Hook](https://github.com/Jeffrey-S-Smith/reading-notes-401/blob/main/read-class28.md)
 - [Advanced State with Reducers](https://github.com/Jeffrey-S-Smith/reading-notes-401/blob/main/read-class29.md)
-- [Hash Tables](https://github.com/Jeffrey-S-Smith/reading-notes-401/blob/main/read-class30.md)
+- [Hash Tables](https://github.com/Jeffrey-S-Smith/reading-notes-401/blob/main/hashtables.md)
 - [Context API](https://github.com/Jeffrey-S-Smith/reading-notes-401/blob/main/read-class31.md)
 - [Context API - Behaviors](https://github.com/Jeffrey-S-Smith/reading-notes-401/blob/main/read-class32.md)
 - [`<Login />` and `<Auth />`](https://github.com/Jeffrey-S-Smith/reading-notes-401/blob/main/read-class33.md)
